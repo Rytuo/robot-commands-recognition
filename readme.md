@@ -1,20 +1,10 @@
-# Проект на хакатон Цифровой прорыв 13-15.10.2023
+# Проект на хакатон "Цифрофой прорыв 2023"
 
-### Описание кейса
-
-todo
-
-### Описание проекта
-
-todo
+Команда "Бойцовский клуб"
 
 ### Структура проекта
 
-- [web](/front/readme.md)
-- [back](/back/readme.md)
-- [ml](/ml/readme.md)
-
-### Как запустить проект
-
-- Установить docker compose
-- `docker compose build & docker compose up -d & docker compose ps`
+- [Слайды](./FightingClub.pdf)
+- [Аугментированный набор данных](./aug_dataset.json)
+- [Модель с архитектурой из слайдов](./big_one.ipynb)
+- [Рабочее решение с llama](./working.ipynb)

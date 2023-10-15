@@ -1,0 +1,1180 @@
+[
+    {
+        "plan_id": 29,
+        "image": "blank.png",
+        "goal_eng": "Move the toy cube from the chair to the table.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "chair",
+                    "toy cube"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "chair",
+                    "toy cube"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "table",
+                    "toy cube"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "table",
+                    "toy cube"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 30,
+        "image": "blank.png",
+        "goal_eng": "Put the cat in the green container.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "green container",
+                    "cat"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "green container",
+                    "cat"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 31,
+        "image": "blank.png",
+        "goal_eng": "Take the cucumber from the floor and put it in the drawer.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "floor",
+                    "cucumber"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "floor",
+                    "cucumber"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "drawer",
+                    "cucumber"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "drawer",
+                    "cucumber"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 32,
+        "image": "blank.png",
+        "goal_eng": "Take the toy cat from the drawer and put it on the table.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "drawer",
+                    "toy cat"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "drawer",
+                    "toy cat"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "table",
+                    "toy cat"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "table",
+                    "toy cat"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 33,
+        "image": "blank.png",
+        "goal_eng": "Put the cube in the orange drawer.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "orange drawer",
+                    "cube"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "orange drawer",
+                    "cube"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 34,
+        "image": "blank.png",
+        "goal_eng": "Put the toy cat on the chair.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "chair",
+                    "toy cat"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "chair",
+                    "toy cat"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 35,
+        "image": "blank.png",
+        "goal_eng": "Transport the toy cube from the floor to the table.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "floor",
+                    "toy cube"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "floor",
+                    "toy cube"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "table",
+                    "toy cube"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "table",
+                    "toy cube"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 36,
+        "image": "blank.png",
+        "goal_eng": "Take the cat from the floor and put it in the green box.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "floor",
+                    "cat"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "floor",
+                    "cat"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "green box",
+                    "cat"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "green box",
+                    "cat"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 37,
+        "image": "blank.png",
+        "goal_eng": "Pick up the toy from the drawer and place it on the table.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "drawer",
+                    "toy"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "drawer",
+                    "toy"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "table",
+                    "toy"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "table",
+                    "toy"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 38,
+        "image": "blank.png",
+        "goal_eng": "Move the cucumber from the floor and put it in the green drawer.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "floor",
+                    "cucumber"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "floor",
+                    "cucumber"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "green drawer",
+                    "cucumber"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "green drawer",
+                    "cucumber"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 16,
+        "image": "blank.png",
+        "goal_eng": "Move the red ball from the shelf to the drawer.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "shelf",
+                    "red ball"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "shelf",
+                    "red ball"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "drawer",
+                    "red ball"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "drawer",
+                    "red ball"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 17,
+        "image": "blank.png",
+        "goal_eng": "Put the green toy in the basket.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "unspecified",
+                    "green toy"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "unspecified",
+                    "green toy"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "basket",
+                    "green toy"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "basket",
+                    "green toy"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 18,
+        "image": "blank.png",
+        "goal_eng": "Take the black cat from the carpet and put it in the purple box.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "carpet",
+                    "black cat"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "carpet",
+                    "black cat"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "purple box",
+                    "black cat"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "purple box",
+                    "black cat"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 19,
+        "image": "blank.png",
+        "goal_eng": "Put the brown cube on the yellow table.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "unspecified",
+                    "brown cube"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "unspecified",
+                    "brown cube"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "yellow table",
+                    "brown cube"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "yellow table",
+                    "brown cube"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 20,
+        "image": "blank.png",
+        "goal_eng": "Move the puppy from the floor to the blue bed.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "floor",
+                    "puppy"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "floor",
+                    "puppy"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "blue bed",
+                    "puppy"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "blue bed",
+                    "puppy"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 21,
+        "image": "blank.png",
+        "goal_eng": "Pick up the white rabbit from the green grass and put it in the wooden cage.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "green grass",
+                    "white rabbit"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "green grass",
+                    "white rabbit"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "wooden cage",
+                    "white rabbit"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "wooden cage",
+                    "white rabbit"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 22,
+        "image": "blank.png",
+        "goal_eng": "Move the toy car from the desk to the toy shelf.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "desk",
+                    "toy car"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "desk",
+                    "toy car"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "toy shelf",
+                    "toy car"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "toy shelf",
+                    "toy car"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 23,
+        "image": "blank.png",
+        "goal_eng": "Put the red apple in the fridge.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "unspecified",
+                    "red apple"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "unspecified",
+                    "red apple"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "fridge",
+                    "red apple"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "fridge",
+                    "red apple"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 24,
+        "image": "blank.png",
+        "goal_eng": "Take the daisy from the pot and put it in the glass vase.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "pot",
+                    "daisy"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "pot",
+                    "daisy"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "glass vase",
+                    "daisy"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "glass vase",
+                    "daisy"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 25,
+        "image": "blank.png",
+        "goal_eng": "Put the teddy bear on the pink pillow.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "unspecified",
+                    "teddy bear"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "unspecified",
+                    "teddy bear"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "pink pillow",
+                    "teddy bear"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "pink pillow",
+                    "teddy bear"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 26,
+        "image": "blank.png",
+        "goal_eng": "Take the cup from the brown table and put it in the cupboard.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "brown table",
+                    "cup"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "brown table",
+                    "cup"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "cupboard",
+                    "cup"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "cupboard",
+                    "cup"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 27,
+        "image": "blank.png",
+        "goal_eng": "Move the laptop from the chair to the desk.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "chair",
+                    "laptop"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "chair",
+                    "laptop"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "desk",
+                    "laptop"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "desk",
+                    "laptop"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 28,
+        "image": "blank.png",
+        "goal_eng": "Put the plate on the dining table.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "unspecified",
+                    "plate"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "unspecified",
+                    "plate"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "dining table",
+                    "plate"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "dining table",
+                    "plate"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 29,
+        "image": "blank.png",
+        "goal_eng": "Pick up the dog from the carpet and put it on the brown couch.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "carpet",
+                    "dog"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "carpet",
+                    "dog"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "brown couch",
+                    "dog"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "brown couch",
+                    "dog"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 75,
+        "image": "blank.png",
+        "goal_eng": "Move the toy car to the desk.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "desk",
+                    "toy car"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 76,
+        "image": "blank.png",
+        "goal_eng": "Place the pen on the table.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "unspecified",
+                    "pen"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "unspecified",
+                    "pen"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "table",
+                    "pen"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "table",
+                    "pen"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 77,
+        "image": "blank.png",
+        "goal_eng": "Go to the red box.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "red box",
+                    "unspecified"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 78,
+        "image": "blank.png",
+        "goal_eng": "Put the small ball on the chair.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "chair",
+                    "small ball"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "chair",
+                    "small ball"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 79,
+        "image": "blank.png",
+        "goal_eng": "Put the book on the shelf.",
+        "task_type": 0,
+        "plan": [
+            [
+                "put",
+                [
+                    "shelf",
+                    "book"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 80,
+        "image": "blank.png",
+        "goal_eng": "Move the large box to the corner.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "corner",
+                    "large box"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 81,
+        "image": "blank.png",
+        "goal_eng": "Drop the small ball on the floor.",
+        "task_type": 0,
+        "plan": [
+            [
+                "put",
+                [
+                    "floor",
+                    "small ball"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 82,
+        "image": "blank.png",
+        "goal_eng": "Move the teddy bear to the bed.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "bed",
+                    "teddy bear"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 83,
+        "image": "blank.png",
+        "goal_eng": "Bring the glass to the table.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "table",
+                    "glass"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 84,
+        "image": "blank.png",
+        "goal_eng": "Put the flower in the pot.",
+        "task_type": 0,
+        "plan": [
+            [
+                "put",
+                [
+                    "pot",
+                    "flower"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 85,
+        "image": "blank.png",
+        "goal_eng": "Pick up the toy elephant from the floor.",
+        "task_type": 0,
+        "plan": [
+            [
+                "pick_up",
+                [
+                    "floor",
+                    "toy elephant"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 86,
+        "image": "blank.png",
+        "goal_eng": "Put the toy car in the toy box.",
+        "task_type": 0,
+        "plan": [
+            [
+                "put",
+                [
+                    "toy box",
+                    "toy car"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 87,
+        "image": "blank.png",
+        "goal_eng": "Pick up the doll from the bed.",
+        "task_type": 0,
+        "plan": [
+            [
+                "pick_up",
+                [
+                    "bed",
+                    "doll"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 88,
+        "image": "blank.png",
+        "goal_eng": "Put the toy train on the shelf.",
+        "task_type": 0,
+        "plan": [
+            [
+                "put",
+                [
+                    "shelf",
+                    "toy train"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 89,
+        "image": "blank.png",
+        "goal_eng": "Move the toy robot to the table.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "table",
+                    "toy robot"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 90,
+        "image": "blank.png",
+        "goal_eng": "Put the teddy bear in the toy chest.",
+        "task_type": 0,
+        "plan": [
+            [
+                "put",
+                [
+                    "toy chest",
+                    "teddy bear"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 91,
+        "image": "blank.png",
+        "goal_eng": "Move the book to the bookshelf.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "bookshelf",
+                    "book"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 92,
+        "image": "blank.png",
+        "goal_eng": "Place the ball on the bed.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "unspecified",
+                    "ball"
+                ]
+            ],
+            [
+                "pick_up",
+                [
+                    "unspecified",
+                    "ball"
+                ]
+            ],
+            [
+                "move_to",
+                [
+                    "bed",
+                    "ball"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "bed",
+                    "ball"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 93,
+        "image": "blank.png",
+        "goal_eng": "Move the toy plane to the desk.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "desk",
+                    "toy plane"
+                ]
+            ]
+        ]
+    },
+    {
+        "plan_id": 94,
+        "image": "blank.png",
+        "goal_eng": "Put the teddy bear on the chair.",
+        "task_type": 0,
+        "plan": [
+            [
+                "move_to",
+                [
+                    "chair",
+                    "teddy bear"
+                ]
+            ],
+            [
+                "put",
+                [
+                    "chair",
+                    "teddy bear"
+                ]
+            ]
+        ]
+    }
+]
